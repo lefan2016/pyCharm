@@ -1,0 +1,1 @@
+subst S: D:\pyCharm\TEMP
